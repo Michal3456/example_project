@@ -10,7 +10,7 @@ Dodać layout głównego formularza w aplikacji do sprites oraz podlikować w do
 Dodać sketch bazy danych do sprites oraz podlikować w dokumentacji.
 ## Zad6
 Zarejestrować się na wireframepro.mockflow.com/
-Dodanie wireframe podstrony z głównym formularzem aplikacji oraz podlikować w dokumentacji (wireframepro.mockflow.com).
+Dodanie wireframe podstrony z głównym formularzem aplikacji (zad4) oraz podlikować w dokumentacji (wireframepro.mockflow.com).
 ## Zad7
 Zaprogramować formularz z zad4. Utworzyć plik form.html oraz utworzyć i wstawić do folderu main w swoim folderze o nazwie numeru z dziennika..
 ## Zad8
