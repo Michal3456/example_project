@@ -29,6 +29,6 @@ Dodać stylizacaję CSS do pliku form.html - dokładnie jak w layout z zad4.
 ## Zad10
 Utworzyć i zaprogramować wireframe z zad6 (mega dokładnie) i umieścić w folderze main.
 ## Zad11
-Dodać dane (zgodne z projektem) do bazy danych, min. 10 rekordów i zaimportować baze do folderu database w pliku sqldate.sql
+Dodać dane (zgodne z projektem) do bazy danych, min. 10 rekordów i zaeksportować baze do folderu database w pliku sqldate.sql
 ## Zad12
 Dodać plik wyświetlający dane z bazy danych w tabeli HTML. Plik umieścić w folderze view. Umiesić nagłowki tabeli jako nazwy pposzególnych kolumn w tabeli. Jeśli baza danych zawiera więcej niż jedną tabelę, wyświetlić je pokolei. Plik nazwać view0.php. 
