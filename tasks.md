@@ -36,4 +36,5 @@ Dodać plik wyświetlający dane z bazy danych w tabeli HTML. Plik umieścić w 
 Zaprogramować formularz na stronie głównej aby wprowadzał dane do bazy danych w PHP (bazy danych z zad8). Umiescić stronę główną w folderze add. (Jeśli zadanie już zostało wykonane, tylko przenieść do folderu add)
 ## Zad14
 Zaprogramować skrypt w JS, który ma zliczac wyświetlone rekordy zad12. (albo po id albo po class w HTML).
-
+## Zad15
+Zaprogramować skrypt w JS, który pozwala na wybranie RGBA(0-255,0-255,0-255,0-1) - podając liczby w 4 inputach typu number i automatycznie ustawia wybrany kolor na tło strony. Nie pozwolić użytkownikowi na wpisanie liter oraz innych liczb z przedziałów.
