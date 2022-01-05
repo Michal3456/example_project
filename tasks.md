@@ -38,3 +38,8 @@ Zaprogramować formularz na stronie głównej aby wprowadzał dane do bazy danyc
 Zaprogramować skrypt w JS, który ma zliczac wyświetlone rekordy zad12. (albo po id albo po class w HTML).
 ## Zad15
 Zaprogramować skrypt w JS, który pozwala na wybranie RGBA(0-255,0-255,0-255,0-1) - podając liczby w 4 inputach typu number i automatycznie ustawia wybrany kolor na tło strony. Nie pozwolić użytkownikowi na wpisanie liter oraz innych liczb z przedziałów.
+## Zad16
+Zaprogramować skrypt w JS, który 
+- Wykonywany po stronie przeglądarki, wywoływany przyciskiem „Prześlij”
+- Skrypt pobiera wartości wprowadzone do pól formularza oraz sprawdza, czy zaznaczone zostało pole wyboru. Jeśli nie, poniżej formularza powinien wyświetlić się w paragrafie tekst w kolorze czerwonym, o treści „Musisz zapoznać się z regulaminem”. Gdy pole wyboru zostanie zaznaczone powinien pojawić się paragraf, który w pierwszej linii wyświetli imię i nazwisko, pisane wielkimi literami, poniżej tekst „Treść Twojej sprawy:” i treść wprowadzona do pola Usługa.Na dole tekst o treści „Na podany e-mail zostanie wysłana oferta.”, zgodnie z obrazem.
+- https://1.bp.blogspot.com/-W8i4U88rf9g/XZwLqy23EVI/AAAAAAAAEGI/oIz_KrPY9PoJj-Dk-Gbn3Xee5CwihUzZwCLcBGAsYHQ/s1600/z.png
